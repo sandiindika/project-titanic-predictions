@@ -1,6 +1,7 @@
 ## Titanic Survival Predictions
 
-[Dataset Link](https://www.kaggle.com/competitions/titanic)
+[Dataset](https://www.kaggle.com/competitions/titanic)
+
 
 ### **Challenge**
 
